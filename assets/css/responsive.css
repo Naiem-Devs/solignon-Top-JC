@@ -1,0 +1,1217 @@
+/* Big screen :1200px. */
+@media (min-width: 1550px) and (max-width: 1700px) {
+  .information-page .img-1{
+    max-width: 300px;
+    top: 132%;
+}
+.logo a img {
+  max-width: 370px;
+}
+.joue__blk{
+  max-width: 992px;
+}
+.formulaire__top {
+  max-width: 600px;
+  margin-inline: auto;
+}
+.merchi__content {
+  max-width: 800px;
+}
+
+.pzz-2 {
+    max-width: 475px;
+}
+
+.Bravo-page .pzz-2 {
+    bottom: -167px;
+}
+
+.dommages-page .pzz-2 {
+    max-width: 414px;
+    top: 55%;
+}
+
+main.cagnotte-page .pzz-2 {
+    bottom: -179px;
+}
+.gager__blk {
+  max-width: 721px;
+  margin-inline: auto;
+}
+
+.man-3 {
+  max-width: 350px;
+}
+.dommage__content {
+  max-width: 886px;
+  margin-inline: auto;
+}
+.dommages-page .left-img-1{
+    top: 80%;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+/* Big screen :1200px. */
+@media (min-width: 1201px) and (max-width: 1550px) {
+  
+main.Bravo-page,.dommages-page{
+    overflow-y: scroll !important;
+}
+  .header-area {
+    position: relative;
+    max-width: 80%;
+    margin-inline: auto;
+}
+.dommage__content {
+  max-width: 886px;
+  margin-inline: auto;
+}
+.logo a img {
+  max-width: 300px;
+}
+.joue__blk {
+  max-width: 755px;
+  gap: 40px;
+}
+.img-2 {
+  max-width: 245px;
+  top: 50%;
+  transform: translateY(-65%);
+  right: -100px;
+}
+
+.formulaire-page img.img-2 {
+    top: 26%;
+}
+.header-top-right {
+  max-width: 250px;
+}
+img.img-5 {
+  max-width: 231px;
+  bottom: -60px;
+}
+
+.formulaire-page img.img-5 {
+    top: 47%;
+    max-width: 260px;
+}
+
+.information-page img.img-5 {
+    top: 240%;
+}
+.footer-area ul li a {
+  font-size: 15px;
+}
+
+.joue__wrp {
+  height: calc(100% - 31%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.joue__content > p {
+    max-width: 500px;
+    font-size: 16px;
+}
+.img-3 {
+  max-width: 180px;
+  bottom: -50px;
+  left: 11%;
+}
+
+.img-4 {
+  max-width: 180px;
+  bottom: -50px;
+  right: 11%;
+}
+
+.img-1 {
+  max-width: 220px;
+}
+
+.formulaire-page img.img-1 {
+    top: 26%;
+}
+
+.information-page img.img-1 {
+    top: 129%;
+}
+.gager__blk {
+  max-width: 598px;
+  margin-inline: auto;
+}
+
+.man-2 {
+  max-width: 360px;
+}
+
+img.man-3 {
+  max-width: 279px;
+}
+
+img.man-4 {
+  max-width: 285px;
+}
+.merchi__content {
+  max-width: 60%;
+}
+
+.v2__btmtext {
+    margin-top: 10px;
+}
+
+.v2__btmtext p {
+    margin-bottom: 6px;
+}
+.left-img-1 {
+  max-width: 400px;
+}
+
+.dommages-page .left-img-1 {
+    top: 84%;
+    z-index: 9;
+    max-width: 350px;
+}
+
+main.v2-page.dommage-page .left-img-1 {
+    top: 40%;
+    max-width: 30%;
+}
+
+main.v2-page.dommage-page.Bravo-page .left-img-1 {
+    max-width: 300px;
+    top: 71%;
+}
+
+.pzz-2 {
+  max-width: 450px;
+}
+
+.dommages-page .pzz-2 {
+    max-width: 323px;
+    top: 61%;
+    right: -103px;
+}
+
+main.v2-page.dommage-page .pzz-2 {
+    bottom: -121px;
+    max-width: 29%;
+}
+
+main.Bravo-page .pzz-2 {
+    max-width: 294px !important;
+    bottom: auto !important;
+    top: 73%;
+}
+
+main.cagnotte-page .pzz-2 {
+    bottom: -115px;
+}
+
+.formulaire__top{
+    max-width: 520px;
+    margin-inline: auto;
+}
+.formulaire__content{
+    max-width: 75%;
+}
+
+.radio__blk span {
+    font-size: 20px;
+}
+
+.formulaire__form label span {
+    font-size: 20px;
+}
+
+
+
+}
+
+
+
+@media (min-width: 1420px) and (max-width: 1500px){
+  .joue__blk{
+    max-width: 764px;
+}
+
+.joue__content > p {
+    font-size: 17px;
+}
+
+.img-3 {
+  max-width: 220px;
+}
+
+.img-4 {
+  max-width: 250px;
+}
+
+.img-1 {
+  max-width: 280px;
+  top: 40%;
+}
+
+.img-2 {
+  max-width: 300px;
+}
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .logo a img {
+    max-width: 327px;
+  }
+  .joue__blk {
+    max-width: 648px;
+    gap: 40px;
+  }
+  .img-2 {
+    max-width: 220px;
+    top: 50%;
+    transform: translateY(-65%);
+    right: -100px;
+  }
+  .header-top-right {
+    max-width: 214px;
+  }
+
+.header-top-left {
+    max-width: 225px;
+    left: -7px;
+}
+  img.img-5 {
+    max-width: 231px;
+  }
+
+.formulaire-page img.img-5 {
+    top: 50%;
+}
+
+.information-page img.img-5 {
+    top: 202%;
+}
+  .footer-area ul li a {
+    font-size: 13px;
+  }
+  .img-1 {
+    max-width: 175px;
+    transform: translateY(-50%);
+  }
+
+.formulaire-page img.img-1 {
+    top: 30%;
+}
+
+.formulaire-page img.img-2 {
+    top: 25%;
+}
+
+.information-page .img-1 {
+    top: 126%;
+}
+  
+.img-3 {
+  max-width: 180px;
+  bottom: -80px;
+}
+.img-4 {
+  max-width: 190px;
+}
+.joue__content > p {
+  max-width: 462px;
+  font-size: 16px;
+}
+.thm_btn {
+  height: 64px;
+  font-size: 28px;
+}
+.footer-area ul {
+  gap: 10px;
+}
+.joue__wrp {
+  height: calc(100% - 42%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-area{
+    padding-bottom: 20px;
+}
+.formulaire__top {
+  max-width: 471px;
+  margin-inline: auto;
+}
+.formulaire__form {
+  max-width: 80%;
+  margin-inline: auto;
+}
+
+.formulaire__form label span {
+    font-size: 20px;
+}
+
+.formulaire__form label {
+    gap: 10px;
+}
+
+.teleCharge_wrp {
+  max-width: 450px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.tele__content {
+    flex-direction: column;
+}
+
+.teleCharge_blk button {
+  font-size: 24px;
+}
+
+.check__box input {
+    transform: translateY(5px);
+}
+.gager__blk {
+  max-width: 470px;
+  margin-inline: auto;
+}
+
+.man-2 {
+  max-width: 266px;
+}
+
+img.man-3 {
+  max-width: 219px;
+}
+
+img.man-4 {
+  max-width: 221px;
+}
+.lunion__title {
+  max-width: 620px;
+  margin-left: 74px;
+}
+
+.green-title {
+  font-size: 40px;
+}
+
+.pera {
+  font-size: 28px;
+}
+
+.lunion__video h1 {
+  font-size: 36px;
+  max-width: 700px;
+}
+
+.gager__btm {
+  padding: 70px 0;
+  background-size: cover;
+}
+.merchi__content {
+  max-width: 521px;
+}
+.left-img-1 {
+  max-width: 361px;
+}
+
+main.v2-page.Bravo-page .left-img-1 {
+    max-width: 273px;
+}
+
+.dommages-page .left-img-1 {
+    max-width: 309px;
+    scale: .9;
+}
+
+main.v2-page.dommage-page .left-img-1 {
+    top: 51%;
+    scale: .8;
+}
+
+.pzz-2 {
+  max-width: 422px;
+  bottom: -115px;
+}
+
+.Bravo-page .pzz-2 {
+    max-width: 304px;
+    top: 61%;
+}
+
+.dommages-page .pzz-2 {
+    max-width: 301px;
+    top: 70%;
+    right: -100px;
+}
+
+main.v2-page.dommage-page .pzz-2 {
+    max-width: 290px;
+    bottom: -126px;
+    right: -100px;
+}
+
+.cagnotte-page .pzz-2 {max-width: 381px;}
+
+main.v2-page.dommage-page.overflow-hidden{
+  overflow-y: scroll !important;
+}
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  
+:root {
+
+  --f18 : 16px;
+  --f20 : 16px;
+  --f22 : 18px;
+  --f24 : 20px;
+  --f28 : 22px;
+  --f30 : 24px;
+  --f32 : 24px;
+  --f36 : 30px;
+  --f40 : 32px;
+  --f48 : 36px;
+
+}
+  .logo a img {
+    max-width: 271px;
+  }
+
+.v2 .logo a img {
+    max-width: 160px;
+}
+  .joue__blk {
+    max-width: 504px;
+    gap: 30px;
+  }
+  .img-2 {
+    max-width: 220px;
+    top: 50%;
+    transform: translateY(-65%);
+    right: -100px;
+  }
+  .header-top-right {
+    max-width: 214px;
+  }
+
+.header-top-left {
+    max-width: 197px;
+    left: -15px;
+}
+
+.v2 .header-top-left {
+    max-width: 220px;
+}
+  img.img-5 {
+    max-width: 231px;
+  }
+
+.information-page img.img-5 {
+    top: 175%;
+    max-width: 200px;
+}
+  .footer-area ul li a {
+    font-size: 13px;
+  }
+  .img-1 {
+    max-width: 175px;
+    transform: translateY(-50%);
+  }
+
+.formulaire-page img.img-1 {
+    top: 28%;
+}
+
+.formulaire-page img.img-2 {
+    top: 24%;
+}
+
+.information-page .img-1 {
+    top: 118%;
+    max-width: 151px;
+}
+  
+.img-3 {
+  max-width: 180px;
+  bottom: -80px;
+  position: unset !important;
+}
+.img-4 {
+  max-width: 190px;
+  position: unset !important;
+}
+
+.body__img.man_img {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 44px;
+    justify-content: space-between;
+    max-width: 440px;
+    margin: 20px auto 0;
+}
+
+.body__img.man_img img {}
+.joue__content > p {
+  max-width: 462px;
+  font-size: 16px;
+}
+.thm_btn {
+  height: 54px;
+  font-size: 24px;
+}
+.footer-area ul {
+  gap: 10px;
+  flex-wrap: wrap;
+  gap: 2px 20px;
+}
+
+.footer-area {
+    height: 70px;
+}
+.joue__wrp {
+  /* height: calc(100% - 42%); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-area{
+    padding-bottom: 20px;
+}
+
+.header-area.v2 {
+    padding: 10px 0 20px;
+}
+.formulaire__top {
+  max-width: 442px;
+  margin-inline: auto;
+}
+.formulaire__form {
+  max-width: 80%;
+  margin-inline: auto;
+}
+
+.formulaire__form label span {
+}
+
+.formulaire__form label {
+    gap: 10px;
+}
+
+.input__wrp {
+    flex-direction: column;
+    gap: 0;
+}
+
+.teleCharge_wrp {
+  max-width: 450px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.tele__content {
+    flex-direction: column;
+}
+
+.teleCharge_blk button {
+}
+
+.check__box input {
+    transform: translateY(5px);
+}
+.lunion__title {
+  max-width: 620px;
+  margin-inline: auto;
+  margin-bottom: 40px;
+}
+
+.lunion__title img {
+    max-width: 130px;
+}
+
+.green-title {
+  font-size: 32px;
+}
+
+.text__blk > img {
+    scale: .8;
+    margin: 0;
+}
+
+.pera {
+  font-size: 24px;
+}
+
+.lunion__video h1 {
+  font-size: 28px;
+  max-width: 620px;
+}
+
+.gager__btm {
+  padding: 70px 0;
+  background-size: cover;
+}
+.lunion__title img {
+  position: unset;
+}
+
+.lunion__video i {
+  height: 350px;
+  max-width: 600px;
+}
+
+.lunion__video i a {
+  display: block;
+  max-width: 50px;
+}
+
+.lunion__video h3 {}
+
+.lunion__video h3 {
+  font-size: 20px;
+}
+
+.flex {
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.gager__blk {
+  max-width: 370px;
+  margin: auto;
+}
+
+img.man-2 {
+  max-width: 200px;
+}
+
+img.man-3 {
+  max-width: 200px;
+}
+
+img.man-4 {
+  max-width: 200px;
+}
+
+.gager__blk a {
+  margin-top: 30px;
+}
+.merchi__content {
+  max-width: 458px;
+}
+.left-img-1 {
+  max-width: 240px;
+  left: -15px;
+}
+
+section.body-content.p_relative {
+    overflow: unset;
+}
+
+.pzz-2 {
+  max-width: 328px;
+  bottom: -76px;
+  right: -130px;
+}
+
+.Bravo-page .pzz-2 {
+    max-width: 260px;
+    top: 60%;
+}
+
+.dommages-page .pzz-2 {
+    max-width: 209px;
+    right: -70px;
+    top: 60%;
+}
+
+main.v2-page.dommage-page .pzz-2 {
+    max-width: 255px;
+    bottom: -95px;
+    right: -96px;
+}
+
+main.cagnotte-page .pzz-2 {max-width: 286px;}
+
+
+main.v2-page.dommage-page.overflow-hidden{
+  overflow-y: scroll !important;
+}
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+  :root {
+
+    --f18 : 16px;
+    --f20 : 16px;
+    --f22 : 18px;
+    --f24 : 20px;
+    --f28 : 22px;
+    --f30 : 24px;
+    --f32 : 24px;
+    --f36 : 30px;
+    --f40 : 32px;
+    --f48 : 36px;
+  
+  }
+  .logo a img {
+    max-width: 170px;
+  }
+
+.v2 .logo a img {
+    max-width: 120px;
+}
+  .joue__blk {
+    max-width: 60%;
+    gap: 30px;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+
+.joue__blk > span img {
+    max-width: 38px;
+}
+  .img-2 {
+    max-width: 136px;
+    top: 50%;
+    transform: translateY(-65%);
+    right: -81px;
+  }
+  .header-top-right {
+    max-width: 134px;
+    top: -40px;
+    right: -30px;
+  }
+
+.header-top-left {
+    max-width: 117px;
+    left: -15px;
+}
+
+.v2 .header-top-left {
+    max-width: 135px;
+    top: -28px;
+}
+  img.img-5 {
+    max-width: 149px;
+    bottom: 6px;
+  }
+
+.information-page img.img-5 {
+    top: 175%;
+}
+  .footer-area ul li a {
+    font-size: 12px;
+  }
+  .img-1 {
+    max-width: 130px;
+    transform: translateY(-50%);
+  }
+
+.information-page .img-1 {
+    top: 109%;
+    max-width: 110px;
+    left: -65px;
+}
+  
+.img-3 {
+  max-width: 130px;
+  bottom: -80px;
+  position: unset !important;
+}
+.img-4 {
+  max-width: 135px;
+  position: unset !important;
+}
+
+.body__img.man_img {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-between;
+    max-width: 295px;
+    margin: 20px auto 0;
+}
+
+.body__img.man_img img {}
+.joue__content > p {
+  max-width: 462px;
+  font-size: 16px;
+}
+.thm_btn {
+  height: 45px;
+  font-size: 20px;
+  padding: 0 24px;
+}
+.footer-area ul {
+  gap: 10px;
+  flex-wrap: wrap;
+  gap: 2px 20px;
+}
+
+.footer-area {
+    height: auto;
+    padding: 10px;
+}
+.joue__wrp {
+  /* height: calc(100% - 42%); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-area{
+    padding-bottom: 20px;
+}
+
+main {
+    overflow-y: scroll;
+}
+
+.header-area.v2 {
+    padding: 20px 0;
+}
+
+.formulaire__top {
+  max-width: 278px;
+  margin-inline: auto;
+  gap: 30px 0;
+}
+.formulaire__form {
+  max-width: 80%;
+  margin-inline: auto;
+}
+
+.radio__blk {
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.radio__blk > span {
+    font-size: 18px;
+    flex-basis: 100%;
+}
+
+.formulaire__form label span {font-size: 18px;}
+
+.formulaire__form label {
+    gap: 4px 10px;
+    justify-content: start;
+    flex-direction: column;
+    align-items: start;
+}
+
+.radio__blk label {
+    flex-direction: row;
+    align-items: center;
+    width: auto;
+}
+
+.input__wrp {
+    flex-direction: column;
+    gap: 0;
+}
+
+.teleCharge_wrp {
+  max-width: 450px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.teleCharge_wrp p {
+    font-size: 14px;
+}
+
+.tele__content {
+    flex-direction: column;
+}
+
+.teleCharge_blk button {font-size: 15px;padding: 0 20px;padding-right: 10px;}
+
+.teleCharge_blk {
+    height: 41px;
+}
+
+.teleCharge_blk span {
+    font-size: 14px;
+}
+
+.check__box input {
+    transform: translateY(10px);
+    width: 20px;
+    height: 20px;
+}
+
+.check__box {
+    gap: 15px;
+}
+.formulaire-page .logo img{
+    max-width: 200px;
+
+  }
+  .formulaire-page img.img-5 {
+    top: 52%;
+}
+
+.formulaire-page .img-2 {
+    top: 11%;
+    right: -88px;
+}
+
+.formulaire-page .img-1 {
+    top: 15% !important;
+    left: -88px;
+}
+
+.formulaire-page {
+    padding-bottom: 55px;
+}
+.Mentions__text p {
+  line-height: 1.3;
+}
+
+.Mentions__text {
+  padding-left: 35px;
+}
+
+.lunion__title {
+  max-width: 620px;
+  margin-inline: auto;
+  margin-bottom: 40px;
+}
+
+.lunion__title img {
+    max-width: 130px;
+}
+
+.lunion__wrp {
+    padding: 0 40px;
+}
+
+.green-title {
+  font-size: 30px;
+  margin-bottom: 18px;
+}
+
+.pera {
+  font-size: 22px;
+}
+
+.lunion__video h1 {
+  font-size: 26px;
+  max-width: 620px;
+}
+
+.gager__btm {
+  padding: 70px 0;
+  background-size: cover;
+}
+.lunion__title img {
+  position: unset;
+}
+
+.lunion__video i {
+  height: 230px;
+  max-width: 350px;
+}
+
+.lunion__video i a {
+  display: block;
+  max-width: 50px;
+}
+
+.lunion__video h3 {}
+
+.lunion__video h3 {
+  font-size: 20px;
+}
+
+.lunion__video > a {
+    font-size: 18px;
+    height: 48px;
+    padding: 0 20px;
+}
+
+.flex {
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.gager__blk {
+  max-width: 320px;
+  margin: auto;
+  padding-top: 20px;
+}
+
+img.man-2 {
+  max-width: 200px;
+  position: unset;
+}
+
+img.man-3 {
+  max-width: 200px;
+}
+
+img.man-4 {
+  max-width: 200px;
+  position: relative;
+  right: auto;
+  left: 39%;
+}
+
+.gager__blk a {
+  margin-top: 30px;
+}
+.merchi__content {
+  max-width: 85%;
+}
+.left-img-1 {
+  left: -16px;
+  transform: unset;
+  max-width: 139px;
+  scale: .9;
+}
+
+main.v2-page.Bravo-page .left-img-1 {
+    top: 43%;
+}
+
+main.v2-page.dommage-page.Bravo-page .left-img-1 {}
+
+.dommages-page .left-img-1 {
+    top: 34%;
+}
+
+main.v2-page.cagnotte-page .left-img-1 {
+    top: 48%;
+}
+
+.version-2 {
+    background-size: cover;
+}
+
+.pzz-2 {
+  bottom: -31px;
+  right: -51px;
+  max-width: 112px;
+}
+
+.Bravo-page .pzz-2 {
+    top: 43%;
+    right: -51px;
+}
+
+.dommages-page .pzz-2 {
+    top: 36%;
+}
+
+main.v2-page.dommage-page .pzz-2 {
+    bottom: -48px;
+    right: -41px;
+}
+
+section.body-content.p_relative {
+    height: 100%;
+}
+.v2__btmtext p {
+  font-size: 15px;
+  position: relative;
+  z-index: 9;
+  margin-bottom: 10px;
+}
+
+main.v2-page.dommage-page.overflow-hidden{
+  overflow-y: scroll !important;
+}
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+main.v2-page .container {
+    width: 100%;
+}
+.pzz-2{
+    max-width: 183px;
+    bottom: -50px;
+}
+
+.dommages-page .pzz-2 {
+    top: 40%;
+    max-width: 140px;
+}
+
+.Bravo-page .pzz-2 {
+    top: 46%;
+    right: -63px;
+    max-width: 141px;
+}
+
+main.v2-page.dommage-page .pzz-2 {
+    bottom: -63px;
+    max-width: 146px;
+}
+.left-img-1{
+    max-width: 210px;
+}
+
+.dommages-page .left-img-1 {
+    top: 39%;
+    max-width: 170px;
+}
+
+main.v2-page.Bravo-page .left-img-1 {
+    top: 44%;
+    max-width: 157px;
+}
+
+section.body-content.p_relative {
+    overflow: unset;
+}
+
+main.v2-page.dommage-page .left-img-1 {
+    top: 67%;
+    max-width: 149px;
+}
+.merchi__content{
+    max-width: 70%;
+}
+
+
+.information-page img.img-1{
+    max-width: 136px;
+}
+.information-page img.img-5{
+    max-width: 170px;
+    top: 166%;
+}
+
+
+
+
+
+
+
+}
